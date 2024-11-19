@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://geolxb.github.io/openWFS/</loc>
+    <lastmod>2024-10-30T21:13:38+08:00</lastmod>
+  </url><url>
+    <loc>https://geolxb.github.io/openWFS/tutorial/step1/</loc>
+    <lastmod>2024-10-30T21:13:38+08:00</lastmod>
+  </url><url>
+    <loc>https://geolxb.github.io/openWFS/tutorial/step2/</loc>
+    <lastmod>2024-10-30T21:13:38+08:00</lastmod>
+  </url><url>
+    <loc>https://geolxb.github.io/openWFS/tutorial/step3/</loc>
+    <lastmod>2024-10-30T21:13:38+08:00</lastmod>
+  </url><url>
+    <loc>https://geolxb.github.io/openWFS/tutorial/</loc>
+    <lastmod>2024-10-30T21:13:38+08:00</lastmod>
+  </url><url>
+    <loc>https://geolxb.github.io/openWFS/tutorial/optimization_models/</loc>
+    <lastmod>2024-10-29T21:13:38+08:00</lastmod>
+  </url><url>
+    <loc>https://geolxb.github.io/openWFS/about/</loc>
+  </url><url>
+    <loc>https://geolxb.github.io/openWFS/application/</loc>
+  </url><url>
+    <loc>https://geolxb.github.io/openWFS/categories/</loc>
+  </url><url>
+    <loc>https://geolxb.github.io/openWFS/datasets/</loc>
+  </url><url>
+    <loc>https://geolxb.github.io/openWFS/tags/</loc>
+  </url>
+</urlset>

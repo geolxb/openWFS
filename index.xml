@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DL-WFS</title>
+    <link>https://geolxb.github.io/openWFS/</link>
+    <description>Recent content on DL-WFS</description>
+    <image>
+      <title>DL-WFS</title>
+      <url>https://geolxb.github.io/openWFS/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://geolxb.github.io/openWFS/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.123.4</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Oct 2024 21:13:38 +0800</lastBuildDate>
+    <atom:link href="https://geolxb.github.io/openWFS/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Step 1: creat training datasets</title>
+      <link>https://geolxb.github.io/openWFS/tutorial/step1/</link>
+      <pubDate>Wed, 30 Oct 2024 21:13:38 +0800</pubDate>
+      <guid>https://geolxb.github.io/openWFS/tutorial/step1/</guid>
+      <description>Thank you for your interest in this project! We anticipate uploading the data and code by March 1, 2025.
+VSP upgoing/downgoing case Coming soon
+No specific task case Coming soon</description>
+    </item>
+    <item>
+      <title>Step 2: merge datasets for training</title>
+      <link>https://geolxb.github.io/openWFS/tutorial/step2/</link>
+      <pubDate>Wed, 30 Oct 2024 21:13:38 +0800</pubDate>
+      <guid>https://geolxb.github.io/openWFS/tutorial/step2/</guid>
+      <description>Thank you for your interest in this project! We anticipate uploading the data and code by March 1, 2025.
+Coming soon</description>
+    </item>
+    <item>
+      <title>Step 3: training model</title>
+      <link>https://geolxb.github.io/openWFS/tutorial/step3/</link>
+      <pubDate>Wed, 30 Oct 2024 21:13:38 +0800</pubDate>
+      <guid>https://geolxb.github.io/openWFS/tutorial/step3/</guid>
+      <description>Thank you for your interest in this project! We anticipate uploading the data and code by March 1, 2025.
+Coming soon</description>
+    </item>
+    <item>
+      <title>Optimization model</title>
+      <link>https://geolxb.github.io/openWFS/tutorial/optimization_models/</link>
+      <pubDate>Tue, 29 Oct 2024 21:13:38 +0800</pubDate>
+      <guid>https://geolxb.github.io/openWFS/tutorial/optimization_models/</guid>
+      <description>Thank you for your interest in this project! We anticipate uploading the data and code by March 1, 2025.
+Coming soon</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://geolxb.github.io/openWFS/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geolxb.github.io/openWFS/about/</guid>
+      <description>Thank you for your interest in this project! We anticipate uploading the data and code by March 1, 2025.
+This project aims to provide an efficient and accurate deep learning algorithm for seismic data wavefield separation. The algorithm functions similarly to F-K filtering and Radon transform filtering and is applicable to various scenarios, including VSP up- and down-going wave separation, DAS-VSP single-component P/S separation based on apparent velocity differences, multiple-wave attenuation in CMP and CRP gathers, and linear noise attenuation.</description>
+    </item>
+    <item>
+      <title>Application case</title>
+      <link>https://geolxb.github.io/openWFS/application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geolxb.github.io/openWFS/application/</guid>
+      <description>Thank you for your interest in this project! We anticipate uploading the data and code by March 1, 2025.
+Case 1: VSP upgoing and dwongoing Coming soon
+Case 2: DAS-VSP P/S Coming soon
+Case 3: Optimization of CRP and CMP Coming soon
+case 4: Linier noise Coming soon</description>
+    </item>
+    <item>
+      <title>Datasets</title>
+      <link>https://geolxb.github.io/openWFS/datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geolxb.github.io/openWFS/datasets/</guid>
+      <description>Thank you for your interest in this project! We anticipate uploading the data and code by March 1, 2025.
+License(s): Creative Commons Attribution Share-Alike 4.0 (CC BY-SA 4.0)
+0 Introduction The datasets are stored in HDF5 files, with each file containing 20,000 upgoing and downgoing labels for a size of 128x128, or 40,000 labels for a size of 128x48. The training dataset can be downloaded from Google Drive. A tutorial on making datasets can be found at create_dataset.</description>
+    </item>
+  </channel>
+</rss>
