@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on DL-WFS</title>
+    <link>http://localhost:1313/openWFS/about/</link>
+    <description>Recent content in Abouts on DL-WFS</description>
+    <image>
+      <title>DL-WFS</title>
+      <url>http://localhost:1313/openWFS/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/openWFS/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/openWFS/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/openWFS/about/index-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/openWFS/about/index-copy/</guid>
+      <description>This project aims to provide an efficient and accurate deep learning algorithm for seismic data wavefield separation. The algorithm functions similarly to F-K filtering and Radon transform filtering and is applicable to various scenarios, including VSP up- and down-going wave separation, DAS-VSP single-component P/S separation based on apparent velocity differences, multiple-wave attenuation in CMP and CRP gathers, and linear noise attenuation. This method is suitable for tasks where the wavefields to be separated have significant apparent velocity differences.</description>
+    </item>
+  </channel>
+</rss>
