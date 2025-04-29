@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://geolxb.github.io/openWFS/sitemap.xml
