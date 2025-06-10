@@ -45,8 +45,7 @@ If you use this dataset in your research, please cite the corresponding publicat
 
 如果您在研究中使用了本数据集，请引用相关文献或注明项目来源。
 
-1: Li, X., Q. Qi, L. Li, and R. Deng, 2025, Deep learning velocity filtering for seismic data: https://doi.org/10.48550/arXiv.2504.19216
-
+1: Li, X., Q. Qi, L. Li, and R. Deng, 2025, Deep learning velocity filtering for seismic data: https://doi.org/10.48550/arXiv.2504.19216  
 2: Li, X., Q. Qi, L. Li, P. Duan, Lin. L, J. Meng, and M. Zheng, 2025, A big data-driven deep learning method for seismic wavefield separation of vertical seismic profile data: GEOPHYSICS, 90,
 
 3: Li, X., Q. Qi, H. Huang, Y. Yang, P. Duan, and Z. Cao, 2023, An efficient deep learning method for VSP wavefield separation: A DAS-VSP case: GEOPHYSICS, 88, WC91–WC105.
