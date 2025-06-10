@@ -18,7 +18,7 @@ This dataset can be used for:
   VSP 上下行波分离  
 - Linear noise suppression  
   线性噪声压制  
-- Multiple attenuation in CDP gather 
+- Multiple attenuation in CDP gather  
   道集全程多次波去除  
 - DAS common-mode noise separation  
   DAS 共模噪声分离  
