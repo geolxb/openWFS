@@ -57,6 +57,13 @@ No specific task case Coming soon</description>
       <description>core python functions：sep_function.py separate_one(data, model, boundary=0, time_interp:int=1, sampling_x:int=1, segment_x:int=1024, segment_overlap:int=50, iter:int=1, method=&amp;#34;up&amp;#34;): data: input seismic data: A 2-dimentional numpy.array model: The trained deep learning model boundary: Boundary slope or boundary T-D curves time_interp: Time interpolation sampling_x: Spatial downsampling rate segment_x: Segment length in the spatial direction segment_overlap: An overlap is set between the groups iter: The number of repeated predictions method: &amp;#34;up&amp;#34; &amp;#34;down&amp;#34; &amp;#34;middle&amp;#34; &amp;#34;outside&amp;#34; &amp;#34;median&amp;#34; separate_gathers(data, model, boundary=0, time_interp:int=1, sampling_x:int=1, segment_x:int=1024, segment_overlap:int=50, iter:int=1, method=&amp;#34;up&amp;#34;): data: 3-dimentional seismic data, 0-axis: list or numpy; 1- and 2-axis: numpy dim0: gather; dim1: time; dim2: trace Case 1: VSP upgoing and dwongoing The trained model, when used with default parameters, can effectively separate upgoing and downgoing waves.</description>
     </item>
     <item>
+      <title>Benchmarks</title>
+      <link>https://geolxb.github.io/openWFS/benchmarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geolxb.github.io/openWFS/benchmarks/</guid>
+      <description>coming soon</description>
+    </item>
+    <item>
       <title>Datasets</title>
       <link>https://geolxb.github.io/openWFS/datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
